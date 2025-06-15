@@ -1,0 +1,9 @@
+[submodule "single-spa-host"]
+	path = single-spa-host
+	url = https://github.com/ducknem2086/single-spa-host.git
+[submodule "host-single-spa"]
+	path = host-single-spa
+	url = https://github.com/ducknem2086/host-single-spa.git
+[submodule "vue-remote-1"]
+	path = vue-remote-1
+	url = https://github.com/ducknem2086/vue-remote-1.git
