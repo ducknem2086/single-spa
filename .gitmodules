@@ -7,3 +7,6 @@
 [submodule "vue-remote-1"]
 	path = vue-remote-1
 	url = https://github.com/ducknem2086/vue-remote-1.git
+[submodule "table-form-rest"]
+	path = table-form-rest
+	url = https://github.com/ducknem2086/table-form-rest.git
