@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/host-single-spa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/table-form-rest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/table-task-restful" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vue-remote-1" vcs="Git" />
   </component>
